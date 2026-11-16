@@ -123,6 +123,7 @@ button.choice,button.option,button.interaction-card,button.target,button.explore
   box-shadow:none!important;pointer-events:none;
 }
 #screen1 [data-image="yabao"] .image-media {object-fit:contain;filter:drop-shadow(0 5px 6px #294b5b55);}
+#screen1 [data-image="yabao"] {display:none!important;}
 
 /* Unit 3: a compact picturebook scene and a clear, unobstructed footer. */
 .lesson-site header {position:sticky;top:0;z-index:1001;flex-wrap:wrap;background:#eaf1efed;padding:8px 4px;backdrop-filter:blur(8px);}
